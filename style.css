@@ -490,8 +490,7 @@ header {
    7. Section Description                 
 ========================================= */
 .description .app-image {
-	width: 100px;
-	height: 100px;
+	max-width: 441px;
 	margin: auto;
 	margin-bottom: 50px;
 }
